@@ -1,2 +1,2 @@
-# PTHS-CIRC-github.io
+# PTHS-CIRC
 A website for NPTHS CIRC
